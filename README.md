@@ -6,18 +6,24 @@ A native iOS companion app for roguelike deck-building card games. Built with **
 
 ---
 
+## Demo
+
+https://github.com/c3rooks/Ascension-Companion/assets/demo.mp4
+
+> *To watch the full app walkthrough, see [demo.mp4](screenshots/demo.mp4) in this repo or download it directly.*
+
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/01_Hero.png" width="220" />
-  <img src="screenshots/02_DeckBuilder.png" width="220" />
-  <img src="screenshots/03_CardBrowser.png" width="220" />
+  <img src="screenshots/IMG_1220.jpg" width="220" />
+  <img src="screenshots/IMG_1211.jpg" width="220" />
+  <img src="screenshots/IMG_1212.jpg" width="220" />
 </p>
 
 <p align="center">
-  <img src="screenshots/05_Synergies.png" width="220" />
-  <img src="screenshots/04_MapScanner.png" width="220" />
-  <img src="screenshots/06_RunTracker.png" width="220" />
+  <img src="screenshots/IMG_1221.PNG" width="220" />
+  <img src="screenshots/IMG_1214.jpg" width="220" />
+  <img src="screenshots/IMG_1210.jpg" width="220" />
 </p>
 
 ---
