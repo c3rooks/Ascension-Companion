@@ -81,6 +81,17 @@ Save runs, revisit history, and share deck builds. Home screen widget keeps the 
 
 ---
 
+## Development Log
+
+| Date | Update |
+|---|---|
+| **Apr 13, 2025** | Resubmitted to App Store — renamed to "Ascension Companion", fixed IAP sandbox issue (Paid Apps Agreement), improved purchase error handling. Awaiting approval. |
+| **Apr 11, 2025** | First submission rejected (Guideline 4.1a name, 2.1b IAP). Diagnosed StoreKit config + missing banking setup. |
+| **Apr 9, 2025** | Initial App Store submission — v1.0 build 1. |
+| **Apr 8, 2025** | Core app complete — deck builder, synergy engine, card/relic/potion browser, map scanner beta, run history, widget. |
+
+---
+
 ## Author
 
 **Corey Crooks** — [GitHub](https://github.com/c3rooks)
